@@ -15,12 +15,12 @@ header nav/*Especificidad = 002*/{
     gap: 0.3em;
 }
 
-header a:visited/*Especificidad = 012*/{
+header a/*Especificidad = 012*/{
     color: #e8eef1;
     background-color: inherit;
 }
 
-header nav a:visited /*Especificidad = 013*/{
+header nav a /*Especificidad = 013*/{
     color: #e8eef1;
     background-color: inherit;
 }
